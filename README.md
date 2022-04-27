@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🤖 I’m interested in Test Automation, Selenium, Cypress, Java, JavaScript, Docker, Video Games!
 
-- 🔭 I’m currently working on migration a Python - Robot Framework project to Java Selenium
+- 🔭 I’m currently working on migrating a Python - Robot Framework project to Java Selenium
 
 - 🌱 I’m currently learning JavaScript and Cypress.io
 
