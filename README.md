@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: baturaycaglasin01@gmail.com
 
 
-## 📱 Contact Me Here :-
+## 📱 Contact Me Here :
 <a href="mailto:baturaycaglasin01@gmail.com"><img src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" width="40" height="40"></a>
 <a href="https://discord.com/users//"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="40" height="40"></a>
 <a href="https://join.skype.com/invite/"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384058.png" width="40" height="40"></a>
