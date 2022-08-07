@@ -1,13 +1,9 @@
 ### Hi there 👋
 
 
-- 🤖 I’m interested in Test Automation, Selenium, Cypress, Java, JavaScript, Docker, Video Games!
+- 🤖 I’m interested in Test Automation, Selenium, Web Development, Java, JavaScript, React, Docker, Video Games!
 
-- 🔭 I’m currently working on migrating a Python - Robot Framework project to Java Selenium
-
-- 🌱 I’m currently learning JavaScript and Cypress.io
-
-- 👾 I’m looking to collaborate on Java, Video Games
+- 👾 I’m looking to collaborate on Java!
 
 - 📫 How to reach me: baturaycaglasin01@gmail.com
 
