@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🤖 I’m interested in Test Automation, Selenium, Web Development, Java, JavaScript, React, Docker, Video Games!
+- 🤖 I’m interested in Test Automation, Selenium, Web Development, Java, JavaScript, React, Spring, Video Games!
 
 - 👾 I’m looking to collaborate on Java!
 
