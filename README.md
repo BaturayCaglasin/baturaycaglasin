@@ -1,11 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
 
 
-- 🤖 I’m interested in Test Automation, Selenium, Web Development, Java, JavaScript, React, Spring Boot, Video Games!
-
-- 👾 I’m looking to collaborate on Java!
-
-- 📫 How to reach me: baturaycaglasin01@gmail.com
+- Interested in Back-end automation testing, UI automation testing, Web Development by Java, JavaScript, ReactJS, Spring Boot
+- You can reach me: baturaycaglasin01@gmail.com
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baturaycaglasin&show_icons=true&locale=en&layout=compact" alt="baturaycaglasin" /></p>
