@@ -2,6 +2,7 @@
 
 
 - Interested in Back-end automation testing, UI automation testing, Web Development by Java, JavaScript, ReactJS, Spring Boot
+- Currently a master student of computer engineering.
 - You can reach me: baturaycaglasin01@gmail.com
 
 
