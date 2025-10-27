@@ -10,8 +10,8 @@ I am 5 year experienced Software Development Engineer in Test (SDET). Completed 
 
 Education
 
-MSc. Computer Engineering
-BSc. Industrial Engineering
+* MSc. Computer Engineering
+* BSc. Industrial Engineering
 
 Areas of Expertise
 
