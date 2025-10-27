@@ -15,21 +15,23 @@ Education
 
 Areas of Expertise
 
-Test Automation
-Manual Testing
-Mobile Application Testing
-Continuous Integration/Continuous Deployment (CI/CD)
-Java
-Selenium, TestNG, Appium
-Git, Postman, JMeter
+* Test Automation
+* Manual Testing
+* Mobile Application Testing
+* Continuous Integration/Continuous Deployment (CI/CD)
+* Java
+* Python
+* Selenium, TestNG, Appium
+* Playwright
+* Git, Postman, JMeter
 
 Currently Learning
 
-🌱 I’m currently learning Linux for DevOps expertise.
+🌱 I’m currently learning Playwright with Python and Linux for DevOps expertise.
 
 Hobbies
 
-I am a GAMER! 👾 Currently playing Assassin's Creed Shadows, Dying Light The Beast and FC'26. 
+I am a GAMER! 👾 Currently playing Assassin's Creed Shadows, Battlefield 6 and FC'26. 
 
 
 *** Professional Experience ***
