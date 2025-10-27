@@ -6,7 +6,7 @@ SDET
 
 About Me
 
-I am 5 year experienced Software Development Engineer in Test (SDET). Completed my master's degree in computer engineering with thesis at 2025 and currently educated myself in CI/CD, Linux and SDET areas.
+I am + 5 year experienced Software Development Engineer in Test (SDET). Completed my master's degree in computer engineering with thesis at 2025 and currently educated myself in CI/CD, Linux and SDET areas.
 
 Education
 
