@@ -22,7 +22,7 @@ Areas of Expertise
 * Java
 * Python
 * Selenium, TestNG, Appium
-* Playwright
+* Playwright, Junit
 * Git, Postman, JMeter
 
 Currently Learning
